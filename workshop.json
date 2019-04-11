@@ -1,5 +1,5 @@
 {
-  "title": "Real world ICO",
+  "title": "Web3.js",
   "icon": "https://yt3.ggpht.com/a-/AAuE7mCJ2JkaWkBLjOsihv3rszh37TlARMkSZ5ATJA=s48-mo-c-c0xffffffff-rj-k-no",
   "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [
@@ -43,10 +43,13 @@
  ],
   "needs": [
     "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/",
     "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-smart-contracts/",
     "https://ninabreznik.github.io/play-workshop-consensys-smart-contract-best-practises/",
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-truffle/"
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-truffle/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-ethereum-focused/"
   ],
   "unlocks": [
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-dapp-overview/"
   ]
 }
