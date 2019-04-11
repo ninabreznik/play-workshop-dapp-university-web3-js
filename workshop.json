@@ -1,48 +1,72 @@
 {
-  "title": "Ethereum Smart Contract Best Practises",
-  "icon": "https://i0.wp.com/paywithink.com/wp-content/uploads/2018/05/consensys-logo.png?resize=300%2C300&ssl=1",
+  "title": "Real world ICO",
+  "icon": "https://yt3.ggpht.com/a-/AAuE7mCJ2JkaWkBLjOsihv3rszh37TlARMkSZ5ATJA=s48-mo-c-c0xffffffff-rj-k-no",
   "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [
   {
-    "title": "General Philosophy",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/general_philosophy/",
+    "title": "Build a Real World ICO",
+    "lesson": "https://www.youtube.com/embed/2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=1",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Solidity Recommendations",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/recommendations/",
+    "title": "Build a Mintable Token",
+    "lesson": "https://www.youtube.com/embed/ir-IRmMTG4Q&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=2",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Known Attacks",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/known_attacks/",
+    "title": "Build a Crowdsale Smart Contract",
+    "lesson": "https://www.youtube.com/embed/wfzTtbZEJP8&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=3",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Software Engineering Techniques",
-    "tool": "https://play.ethereum/org/editor-solidity",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/software_engineering/",
+    "title": "Build a Minted Crowdsale with Smart Contacts",
+    "lesson": "https://www.youtube.com/embed/tb6YPyeRObg&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=4",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Token Implementation Best Practice",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/tokens/",
+    "title": "Build a Capped Crowdsale with Smart Contacts",
+    "lesson": "https://www.youtube.com/embed/w8UwS2VwBTQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=5",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Documentation and Procedures",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/documentation_procedures/",
+    "title": "Build a Timed Crowdsale with Smart Contacts",
+    "lesson": "https://www.youtube.com/embed/-CIw7vnVrAA&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=6",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Security Tools",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_tools/",
+    "title": "Build a Whitelisted Crowdsale with Smart Contacts",
+    "lesson": "https://www.youtube.com/embed/4yUxgOJKYOM&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=7",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Security EIPs",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_eips/",
+    "title": "Build a Refundable Crowdsale with Smart Contacts",
+    "lesson": "https://www.youtube.com/embed/5otDOi86y3I&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=8",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Security Resources",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_notifications/",
+    "title": "Create an ICO Presale with Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/uPeRwDvkuCs&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=9",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Bug Bounty Programs",
-    "lesson": "https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/",
+    "title": "Finalize a Crowdsale",
+    "lesson": "https://www.youtube.com/embed/ofK45m1FDE0&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=10",
+    "tool": "https://play.ethereum.org/editor-solidity",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Create Token Distribution with Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/k10F8n-jRE4&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=11",
+    "tool": "https://play.ethereum.org/editor-solidity",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Create Token Vesting with Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/NxzJiGPyyLw&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=12",
+    "tool": "https://play.ethereum.org/editor-solidity",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Deploy Crowdsale Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/MYrX3DtKwak&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=13",
+    "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }
  ],
