@@ -49,7 +49,6 @@
   "needs": [
     "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/",
     "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-smart-contracts/"
-    ""
   ],
   "unlocks": [
     "https://ninabreznik.github.io/play-workshop-remix/"
