@@ -4,68 +4,39 @@
   "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [
   {
-    "title": "Build a Real World ICO",
-    "lesson": "https://www.youtube.com/embed/2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=1",
+    "title": "Web3.js Intro",
+    "lesson": "https://www.youtube.com/embed/t3wM5903ty0&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=1",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Learn Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/tu92jcqdn6s&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=2",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Inside Ethereum Transactions",
+    "lesson": "https://www.youtube.com/embed/uFdjZ-B3GCM&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=3",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Deploying Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/msT3tpwnyv8&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=4",
     "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Build a Mintable Token",
-    "lesson": "https://www.youtube.com/embed/ir-IRmMTG4Q&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=2",
+    "title": "Writing Smart Contracts",
+    "lesson": "https://www.youtube.com/embed/6HlHwCaAZKQ&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=5",
     "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Build a Crowdsale Smart Contract",
-    "lesson": "https://www.youtube.com/embed/wfzTtbZEJP8&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=3",
+    "title": "Smart Contract Events",
+    "lesson": "https://www.youtube.com/embed/CX2QOE0FcEo&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=6",
     "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }, {
-    "title": "Build a Minted Crowdsale with Smart Contacts",
-    "lesson": "https://www.youtube.com/embed/tb6YPyeRObg&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=4",
-    "tool": "https://play.ethereum.org/editor-solidity",
+    "title": "Inspecting Blocks",
+    "lesson": "https://www.youtube.com/embed/DFCCcgr9dAQ&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=7",
     "info": "src/info/main.md"
   }, {
-    "title": "Build a Capped Crowdsale with Smart Contacts",
-    "lesson": "https://www.youtube.com/embed/w8UwS2VwBTQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=5",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Build a Timed Crowdsale with Smart Contacts",
-    "lesson": "https://www.youtube.com/embed/-CIw7vnVrAA&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=6",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Build a Whitelisted Crowdsale with Smart Contacts",
-    "lesson": "https://www.youtube.com/embed/4yUxgOJKYOM&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=7",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Build a Refundable Crowdsale with Smart Contacts",
-    "lesson": "https://www.youtube.com/embed/5otDOi86y3I&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=8",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Create an ICO Presale with Smart Contracts",
-    "lesson": "https://www.youtube.com/embed/uPeRwDvkuCs&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=9",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Finalize a Crowdsale",
-    "lesson": "https://www.youtube.com/embed/ofK45m1FDE0&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=10",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Create Token Distribution with Smart Contracts",
-    "lesson": "https://www.youtube.com/embed/k10F8n-jRE4&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=11",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Create Token Vesting with Smart Contracts",
-    "lesson": "https://www.youtube.com/embed/NxzJiGPyyLw&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=12",
-    "tool": "https://play.ethereum.org/editor-solidity",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Deploy Crowdsale Smart Contracts",
-    "lesson": "https://www.youtube.com/embed/MYrX3DtKwak&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN&index=13",
+    "title": "Web3.js Utilities",
+    "lesson": "https://www.youtube.com/embed/C5Kv77_AUFE&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=8",
     "tool": "https://play.ethereum.org/editor-solidity",
     "info": "src/info/main.md"
   }
