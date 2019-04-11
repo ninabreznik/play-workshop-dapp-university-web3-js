@@ -17,6 +17,7 @@
     "info": "src/info/main.md"
   }, {
     "title": "Software Engineering Techniques",
+    "tool": "https://play.ethereum/org/editor-solidity",
     "lesson": "https://consensys.github.io/smart-contract-best-practices/software_engineering/",
     "info": "src/info/main.md"
   }, {
@@ -46,9 +47,11 @@
   }
  ],
   "needs": [
-
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-smart-contracts/"
+    ""
   ],
   "unlocks": [
-
+    "https://ninabreznik.github.io/play-workshop-remix/"
   ]
 }
