@@ -1,45 +1,52 @@
 {
-  "title": "Blockchain bootcamp - Dapp overview and use cases",
-  "icon": "https://chainsafe.io/assets/images/ChainSafe_logo.png",
+  "title": "Ethereum Smart Contract Best Practises",
+  "icon": "https://i0.wp.com/paywithink.com/wp-content/uploads/2018/05/consensys-logo.png?resize=300%2C300&ssl=1",
   "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [
   {
-    "title": "Ethereum Dapp Stacks",
-    "lesson": "src/lessons/overview.pdf",
+    "title": "General Philosophy",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/general_philosophy/",
     "info": "src/info/main.md"
   }, {
-    "title": "Identity",
-    "lesson": "src/lessons/identity.pdf",
+    "title": "Solidity Recommendations",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/recommendations/",
     "info": "src/info/main.md"
   }, {
-    "title": "Identity - talk",
-    "lesson": "https://www.youtube.com/embed/QpaTOvAhLR4",
-    "info": "src/info/identity.md"
-  }, {
-    "title": "Rights Management",
-    "lesson": "src/lessons/rights-management.pdf",
+    "title": "Known Attacks",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/known_attacks/",
     "info": "src/info/main.md"
   }, {
-    "title": "Try out the code",
-    "lesson": "src/lessons/code.pdf",
-    "tool": "https://play.ethereum.org/editor-solidity/",
-    "info": "src/info/code.md"
-  }, {
-    "title": "Rights Management - example",
-    "lesson": "https://www.youtube.com/embed/GFSknHNquOQ",
-    "info": "src/info/ujo.md"
-  }, {
-    "title": "Social media - examples",
-    "lesson": "src/lessons/social-media.pdf",
+    "title": "Software Engineering Techniques",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/software_engineering/",
     "info": "src/info/main.md"
   }, {
-    "title": "Akasha - social media Dapp example",
-    "lesson": "https://www.youtube.com/embed/GFSknHNquOQ",
-    "info": "src/info/akasha.md"
+    "title": "Token Implementation Best Practice",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/tokens/",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Documentation and Procedures",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/documentation_procedures/",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Security Tools",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_tools/",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Security EIPs",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_eips/",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Security Resources",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/security_notifications/",
+    "info": "src/info/main.md"
+  }, {
+    "title": "Bug Bounty Programs",
+    "lesson": "https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/",
+    "info": "src/info/main.md"
   }
  ],
   "needs": [
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/"
+
   ],
   "unlocks": [
 
