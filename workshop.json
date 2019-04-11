@@ -72,9 +72,10 @@
  ],
   "needs": [
     "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/",
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-smart-contracts/"
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-smart-contracts/",
+    "https://ninabreznik.github.io/play-workshop-consensys-smart-contract-best-practises/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-truffle/"
   ],
   "unlocks": [
-    "https://ninabreznik.github.io/play-workshop-remix/"
   ]
 }
