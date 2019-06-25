@@ -18,17 +18,17 @@
   }, {
     "title": "Deploying Smart Contracts",
     "lesson": "https://www.youtube.com/embed/msT3tpwnyv8&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=4",
-    "tool": "https://play.ethereum.org/editor-solidity",
+    "tool": "https://playproject.io/editor-solidity/",
     "info": "src/info/main.md"
   }, {
     "title": "Writing Smart Contracts",
     "lesson": "https://www.youtube.com/embed/6HlHwCaAZKQ&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=5",
-    "tool": "https://play.ethereum.org/editor-solidity",
+    "tool": "https://playproject.io/editor-solidity/",
     "info": "src/info/main.md"
   }, {
     "title": "Smart Contract Events",
     "lesson": "https://www.youtube.com/embed/CX2QOE0FcEo&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=6",
-    "tool": "https://play.ethereum.org/editor-solidity",
+    "tool": "https://playproject.io/editor-solidity/",
     "info": "src/info/main.md"
   }, {
     "title": "Inspecting Blocks",
@@ -37,11 +37,12 @@
   }, {
     "title": "Web3.js Utilities",
     "lesson": "https://www.youtube.com/embed/C5Kv77_AUFE&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=8",
-    "tool": "https://play.ethereum.org/editor-solidity",
+    "tool": "https://playproject.io/editor-solidity/",
     "info": "src/info/main.md"
   }
  ],
   "needs": [
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-dapp-overview/"
   ],
   "unlocks": [
   ]
